@@ -1,0 +1,4 @@
+[submodule "amigrave/git-qdiff"]
+	path = amigrave/git-qdiff
+	url = git@github.com:amigrave/git-qdiff.git
+	branch = amigrave-patch-1
